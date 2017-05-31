@@ -1,0 +1,15 @@
+{
+  "name": "meadowlark",
+  "version": "0.0.1",
+  "description": "This is my test programm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Privalov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "pug": "^2.0.0-rc.1"
+  }
+}
